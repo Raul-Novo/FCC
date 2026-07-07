@@ -1,0 +1,30 @@
+# Build outputs
+build/
+bin/
+obj/
+out/
+dist/
+
+# Windows / MSVC / NASM generated files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.dll
+*.res
+*.o
+
+# Logs
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local formatting config
+.clang-format

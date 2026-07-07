@@ -1,0 +1,3 @@
+/Zi
+/Od
+/fsanitize=address
